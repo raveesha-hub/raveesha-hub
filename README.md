@@ -24,5 +24,5 @@
 
 ---
 
-### 📊 GitHub Stats
-![Raveesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raveesha-hub&show_icons=true&theme=radial)
+### 📊 GitHub Profile Summary
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raveesha-hub&theme=radical)
